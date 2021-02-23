@@ -1,2 +1,4 @@
 # hello-world
-new horizons
+starting out
+
+Just figuring out what I wanna do...
